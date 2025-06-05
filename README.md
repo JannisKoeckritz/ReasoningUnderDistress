@@ -3,9 +3,8 @@ A BERT-based approach to classify argumentative elements in mental health Reddit
 
 # 🧠 Zero-Shot Argument Mining in Mental Health Narratives
 
-This repository supports the research presented in the ACL 2025 paper titled:
-**"Reasoning Under Distress: Mining Claims and Evidence in Mental Health Narratives"**  
-by Jannis Köckritz, Bahar İlgen, Georges Hattab.
+This repository supports the research presented at the Workshop on Argument Mining @ ACL 2025 titled:
+**"Reasoning Under Distress: Mining Claims and Evidence in Mental Health Narratives"**  by Jannis Köckritz, Bahar İlgen, Georges Hattab.
 
 ## 📝 Overview
 
